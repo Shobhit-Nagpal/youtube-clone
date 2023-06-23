@@ -1,0 +1,5 @@
+.video__content {
+    flex: 0.8;
+    display: flex;
+    gap: 70px;
+}

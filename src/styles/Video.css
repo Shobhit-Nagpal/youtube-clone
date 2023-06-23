@@ -1,0 +1,37 @@
+.video {
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.video > iframe {
+    width: 806px;
+    height: 453px;
+}
+
+.video__stats {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.video__stats__icons {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.video__stats__icons__like {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.video__stats__icons__share {
+    border: 2px solid lightgray;
+    border-radius: 100%;
+}
+
+.video__stats__icons__download {
+    border: 2px solid lightgray;
+    border-radius: 100%;
+}
