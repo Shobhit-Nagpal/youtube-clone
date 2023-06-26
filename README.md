@@ -1,3 +1,8 @@
+# About
+This is the final project under the front end module of the Odin Project. The task was to replicate the main functionalities of a site you like. This site is a Youtube clone with functionalites such as watching videos, search, home feed.
+
+Link to the clone website: https://youtube-clone-dusky-nine.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
